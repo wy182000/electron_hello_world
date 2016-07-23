@@ -1,5 +1,7 @@
 # electron-quick-start
 
+**[base on this blog file](http://www.wy182000.com/2016/07/23/electron-%e6%90%ad%e5%bb%ba%e8%b7%a8%e5%b9%b3%e5%8f%b0%e6%a1%8c%e9%9d%a2%e5%ba%94%e7%94%a8/)
+
 **Clone and run for a quick way to see an Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
