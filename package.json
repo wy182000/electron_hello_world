@@ -34,6 +34,7 @@
     "appId" : "hello_world.isoyo.cn",
     "app-category-type" : "public.app-category.productivity",
     "win" : {
+      "msi": true,
     	"iconUrl" : "https://github.com/${u}/${p}/blob/master/build/icon.ico?raw=true"
     }
   }
